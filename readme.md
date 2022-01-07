@@ -6,7 +6,7 @@
 ### Folder src/ conrains the code for the dataset creation. Code is beeing actually pruned.
 
 
-### Requirements (easy install):
+### Requirements (easy install from jupyter notebook):
 
 !pip install deepbrain
 
